@@ -1,0 +1,17 @@
+# dependencies
+/node_modules
+
+# builds
+/dist
+
+#test
+/coverage
+
+npm-debug.log
+
+# System
+.DS_Store
+
+package-lock.json
+
+.next
